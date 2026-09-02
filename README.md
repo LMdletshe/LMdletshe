@@ -12,7 +12,7 @@ My DUT coursework gave me the foundation I use to think like a developer, not ju
 - Microsoft SQL Server, database-driven application design, and validation flows
 - Microsoft Azure, multi-tier architecture, system design, and technical documentation
 - SDLC, Agile, testing, debugging, troubleshooting, UI/UX, and cybersecurity fundamentals
-- 22 distinctions achieved across the Diploma to date
+
 
 ## What I Taught Myself
 
