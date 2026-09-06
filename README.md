@@ -12,7 +12,7 @@ My DUT coursework gave me the foundation I use to think like a developer, not ju
 - Microsoft SQL Server, database-driven application design, and validation flows
 - Microsoft Azure, multi-tier architecture, system design, and technical documentation
 - SDLC, Agile, testing, debugging, troubleshooting, UI/UX, and cybersecurity fundamentals
-
+- 22 distinctions achieved across the Diploma to date
 
 ## What I Taught Myself
 
@@ -36,12 +36,37 @@ I built it around a League-inspired drafting problem because competitive games h
 - Stack: JavaScript, HTML, CSS, Riot Data Dragon CDN
 - Highlights: responsive UI, champion explorer, team synergy scoring, counter-pick guidance, saved teams, and shareable team links
 
-## Project Work From My CV
+## Project Work And Repositories
 
-- UsizoTap: emergency and personal safety app using React Native, TypeScript, Expo, and Node.js
-- UniBus: university shuttle platform using React, TypeScript, .NET API, and Azure
-- DUT Sports Hub: role-based university sports platform using C#, ASP.NET MVC, and SQL Server
-- Additional builds: personal finance and budgeting app, healthcare appointment management system
+### UsizoTap
+
+Safety-focused emergency workflow project.
+
+- Repo status: private
+- Stack focus: TypeScript, PWA/mobile-first UI thinking, ASP.NET Core API concepts, emergency workflow modelling
+- What it shows: self-directed frontend/product learning combined with school-taught API, reliability, security, and documentation habits
+
+### UniBus
+
+University shuttle management platform for student transport information and coordinator operations.
+
+- Repo status: private
+- Stack focus: React, TypeScript, .NET API, Azure, SQL Server, route and schedule workflows
+- What it shows: full-stack thinking across user roles, transport data, announcements, bus status, and maintainable admin workflows
+
+### DUT Sports Hub
+
+Role-based university sports platform for students, sport administrators, and super administrators.
+
+- Repo status: private
+- Live preview: https://dut-sport-hub-2-0.vercel.app
+- Stack focus: C#, ASP.NET MVC, SQL Server, role-based access, fixtures, results, announcements, forums, and administration
+- What it shows: my school-taught .NET and database foundation applied to a structured multi-role system
+
+### Additional CV Builds
+
+- Personal Finance and Budgeting App
+- Healthcare Appointment Management System
 
 ## Certificates And Growth
 
