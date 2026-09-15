@@ -4,14 +4,17 @@ Junior Software Developer and final-year Diploma in ICT: Applications Developmen
 
 I build practical web, desktop, and mobile projects while growing from a strong academic base in .NET, SQL Server, Azure, software design, testing, and documentation. I am also self-taught in modern JavaScript tooling, especially React, TypeScript, React Native, Node.js, and AI-assisted development workflows.
 
+LinkedIn: https://linkedin.com/in/lwandile-mdletshe
+
 ## What I Learned Through School
 
 My DUT coursework gave me the foundation I use to think like a developer, not just assemble screens.
 
 - C#, .NET, ASP.NET MVC, OOP, CRUD, and REST API concepts
 - Microsoft SQL Server, database-driven application design, and validation flows
-- Microsoft Azure, multi-tier architecture, system design, and technical documentation
-- SDLC, Agile, testing, debugging, troubleshooting, UI/UX, and cybersecurity fundamentals
+- Microsoft Azure, cloud computing, multi-tier architecture, system design, and technical documentation
+- Application development, databases, information systems, systems analysis and design, mobile development, software testing, UI/UX, cybersecurity, and IT project management
+- SDLC, Agile, testing, debugging, error handling, troubleshooting, and maintainability
 - 22 distinctions achieved across the Diploma to date
 
 ## What I Taught Myself
@@ -40,19 +43,23 @@ I built it around a League-inspired drafting problem because competitive games h
 
 ### UsizoTap
 
-Safety-focused emergency workflow project.
+Emergency and personal safety app, currently in development.
 
 - Repo status: private
-- Stack focus: TypeScript, PWA/mobile-first UI thinking, ASP.NET Core API concepts, emergency workflow modelling
-- What it shows: self-directed frontend/product learning combined with school-taught API, reliability, security, and documentation habits
+- Stack focus: React Native, TypeScript, Expo, Node.js, mobile-first UI, emergency workflow modelling, and technical documentation
+- Problem focus: faster access to assistance during time-sensitive safety situations where connectivity or screen navigation may be limited
+- Features and design work: panic activation, timed check-ins, location-based alerts, offline fallback concepts, error prevention, security considerations, and future emergency-response integration
+- What it shows: self-directed mobile/frontend learning combined with school-taught requirements analysis, reliability, security, architecture, and documentation habits
 
 ### UniBus
 
 University shuttle management platform for student transport information and coordinator operations.
 
 - Repo status: private
-- Stack focus: React, TypeScript, .NET API, Azure, SQL Server, route and schedule workflows
-- What it shows: full-stack thinking across user roles, transport data, announcements, bus status, and maintainable admin workflows
+- Stack focus: React, TypeScript, .NET API, SQL, Azure, responsive web design, and relational database design
+- Problem focus: centralising routes, schedules, pickup points, bus status, residence transport information, and announcements that are often spread across different communication channels
+- Architecture focus: separated user interface, API, and data layer using multi-tier architecture principles
+- What it shows: full-stack thinking across student and administrator workflows, changing requirements, maintainability, scalability, and iterative problem-solving
 
 ### DUT Sports Hub
 
@@ -60,13 +67,21 @@ Role-based university sports platform for students, sport administrators, and su
 
 - Repo status: private
 - Live preview: https://dut-sport-hub-2-0.vercel.app
-- Stack focus: C#, ASP.NET MVC, SQL Server, role-based access, fixtures, results, announcements, forums, and administration
-- What it shows: my school-taught .NET and database foundation applied to a structured multi-role system
+- Stack focus: C#, ASP.NET MVC, SQL Server, Azure hosting, role-based access, form validation, CRUD workflows, database integration, testing, and debugging
+- Problem focus: centralising sporting codes, fixtures, results, announcements, discussions, and administration for different university sport users
+- What it shows: my school-taught .NET, MVC, SQL Server, testing, and database foundation applied to a structured multi-role system
 
 ### Additional CV Builds
 
 - Personal Finance and Budgeting App
 - Healthcare Appointment Management System
+
+## Work Habits And Soft Skills
+
+- Communication, collaboration, respectful stakeholder engagement, and willingness to accept feedback
+- Problem-solving, critical thinking, attention to detail, time management, and planning
+- Adaptability, resilience, creative thinking, continuous improvement, accountability, and ownership
+- Practical client-facing experience from freelance graphic design and volunteer sound/digital media work
 
 ## Certificates And Growth
 
