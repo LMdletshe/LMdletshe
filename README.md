@@ -66,7 +66,7 @@ University shuttle management platform for student transport information and coo
 Role-based university sports platform for students, sport administrators, and super administrators.
 
 - Repo status: private
-- Live preview: https://dut-sport-hub-2-0.vercel.app
+- Live preview: https://sporthub-22405538.azurewebsites.net/Guest/Index
 - Stack focus: C#, ASP.NET MVC, SQL Server, Azure hosting, role-based access, form validation, CRUD workflows, database integration, testing, and debugging
 - Problem focus: centralising sporting codes, fixtures, results, announcements, discussions, and administration for different university sport users
 - What it shows: my school-taught .NET, MVC, SQL Server, testing, and database foundation applied to a structured multi-role system
