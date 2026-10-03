@@ -24,7 +24,7 @@ Outside class, I push into tools and project types that help me build more curre
 - React, TypeScript, Vite, React Native, Expo, Node.js, HTML, CSS, and GitHub workflows
 - AI-assisted development: using AI to explore ideas, generate prototypes, test implementation paths, and then refine the result into something usable
 - Product thinking from freelance graphic design: translating requirements into clear, user-centred visual solutions
-- Communication and reliability from volunteer sound, digital media, and event support work
+- Communication, reliability, supportive leadership, and team coordination from volunteer sound, digital media, and event support work
 
 ## Featured Public Project
 
@@ -36,20 +36,20 @@ I built it around a League-inspired drafting problem because competitive games h
 
 - Live app: https://lol-helper30.vercel.app
 - Code: https://github.com/LMdletshe/draft-lantern
-- Stack: JavaScript, HTML, CSS, Riot Data Dragon CDN
-- Highlights: responsive UI, champion explorer, team synergy scoring, counter-pick guidance, saved teams, and shareable team links
+- Stack: JavaScript, HTML, CSS, Riot Data Dragon CDN, Vercel serverless function
+- Highlights: modular static app structure, responsive UI, champion explorer, team synergy scoring, counter-pick guidance, current-patch tier modelling, optional Riot Scout signals, saved teams, and shareable team links
 
 ## Project Work And Repositories
 
 ### UsizoTap
 
-Emergency and personal safety app, currently in development.
+Emergency and personal safety monorepo, currently in development.
 
 - Repo status: private
-- Stack focus: React Native, TypeScript, Expo, Node.js, mobile-first UI, emergency workflow modelling, and technical documentation
+- Stack focus: React Native, Expo, TypeScript, React, Vite, Tailwind CSS, Node.js, Azure SQL, local SQL Server fallback, JSON fallback, and CI validation
 - Problem focus: faster access to assistance during time-sensitive safety situations where connectivity or screen navigation may be limited
-- Features and design work: panic activation, timed check-ins, location-based alerts, offline fallback concepts, error prevention, security considerations, and future emergency-response integration
-- What it shows: self-directed mobile/frontend learning combined with school-taught requirements analysis, reliability, security, architecture, and documentation habits
+- Features and design work: panic routing, Check on Me, trusted contacts, incidents, location updates, forum posts, forum replies, notifications, operator actions, Super Admin controls, audit logs, offline fallback concepts, and future emergency-response integration
+- What it shows: self-directed mobile/frontend/backend learning combined with school-taught requirements analysis, reliability, security, architecture, persistence, testing, and documentation habits
 
 ### UniBus
 
@@ -80,11 +80,12 @@ Role-based university sports platform for students, sport administrators, and su
 
 - Communication, collaboration, respectful stakeholder engagement, and willingness to accept feedback
 - Problem-solving, critical thinking, attention to detail, time management, and planning
-- Adaptability, resilience, creative thinking, continuous improvement, accountability, and ownership
+- Adaptability, resilience, creative thinking, continuous improvement, accountability, ownership, supportive leadership, and team coordination
 - Practical client-facing experience from freelance graphic design and volunteer sound/digital media work
 
 ## Certificates And Growth
 
+- Recognized as a Standout Student at the Hollywoodbets Bursary Buddies Big Pitch 2026
 - FNB App Academy 2025: Certificate in Full Stack Development
 - Career Essentials in Generative AI: Microsoft and LinkedIn Learning
 - Current focus: full-stack .NET/React applications, mobile-first workflows, and responsible AI-assisted building
