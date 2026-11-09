@@ -1,6 +1,6 @@
 # Lwandile Mdletshe
 
-Junior Software Developer and final-year Diploma in ICT: Applications Development student at Durban University of Technology.
+Aspiring Junior Software Developer and final-year Diploma in ICT: Applications Development student at Durban University of Technology.
 
 I build practical web, desktop, and mobile projects while growing from a strong academic base in .NET, SQL Server, Azure, software design, testing, and documentation. I am also self-taught in modern JavaScript tooling, especially React, TypeScript, React Native, Node.js, and AI-assisted development workflows.
 
