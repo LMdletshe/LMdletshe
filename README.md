@@ -70,10 +70,6 @@ Role-based university sports platform for students, sport administrators, and su
 - Problem focus: centralising sporting codes, fixtures, results, announcements, discussions, and administration for different university sport users
 - What it shows: my school-taught .NET, MVC, SQL Server, testing, and database foundation applied to a structured multi-role system
 
-### Additional CV Builds
-
-- Personal Finance and Budgeting App
-- Healthcare Appointment Management System
 
 ## Work Habits And Soft Skills
 
