@@ -21,7 +21,6 @@ My DUT coursework gave me the foundation I use to think like a developer, not ju
 
 Outside class, I push into tools and project types that help me build more current, practical products.
 
-- React, TypeScript, Vite, React Native, Expo, Node.js, HTML, CSS, and GitHub workflows
 - AI-assisted development: using AI to explore ideas, generate prototypes, test implementation paths, and then refine the result into something usable
 - Product thinking from freelance graphic design: translating requirements into clear, user-centred visual solutions
 - Communication, reliability, supportive leadership, and team coordination from volunteer sound, digital media, and event support work
